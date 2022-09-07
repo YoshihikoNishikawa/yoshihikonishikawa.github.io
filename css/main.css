@@ -1,4 +1,6 @@
 
 body {
-    font-family: "Times";
+    font-family: "Times","ヒラギノ角ゴ";
     }
+
+p.smallsize { font-size: x-small; }
