@@ -1,6 +1,12 @@
 
 body {
     font-family: "Times","ヒラギノ角ゴ";
+    margin: 30px;
     }
 
 p.smallsize { font-size: x-small; }
+
+ul#pub li{
+    margin-top: 0;
+    margin-bottom: 15px;
+}
