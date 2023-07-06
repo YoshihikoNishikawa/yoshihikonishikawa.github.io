@@ -1,12 +1,37 @@
 
+* { margin:0; padding:0; font-family:inherit; }
 body {
-    font-family: "sans-serif","ヒラギノ角ゴ";
+    font-family: "Raleway", helvetica, sans-serif;
     margin: 30px;
     }
 
 p.smallsize { font-size: x-small; }
 
+ul#list li{
+    margin-top: 0;
+    margin-bottom: 5px;
+    margin-left: 20px;
+}
+
 ul#pub li{
     margin-top: 0;
     margin-bottom: 15px;
+    margin-left: 20px;
+}
+
+
+a,a:hover,a:visited {
+    color: #132dc1;
+    opacity: 1;
+    text-decoration: none;
+  }
+
+p{
+    word-spacing: 15px;
+  }
+p, ul, ol, pre, blockquote, hr, object { margin: 1em 0; }
+
+.top_image img {
+    width: 800px;
+    height: auto;
 }
